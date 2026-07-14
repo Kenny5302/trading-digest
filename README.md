@@ -1,4 +1,4 @@
-# Portfolio Digest
+# Trading Digest
 
 Turns a Robinhood-style positions CSV into a plain-English daily portfolio
 summary using the Claude API. Built as my first Claude API project: one focused
