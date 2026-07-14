@@ -1,0 +1,4 @@
+name,symbol,shares,price,average_cost,total_return,equity
+Example Corp,EXMP,10,150.00,100.00,500.00,1500.00
+Sample Industries,SMPL,5,80.00,90.00,-50.00,400.00
+Demo Fund ETF,DEMO,2,300.00,250.00,100.00,600.00

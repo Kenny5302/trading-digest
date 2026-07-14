@@ -1,0 +1,5 @@
+.env
+positions.csv
+digests/
+__pycache__/
+*.pyc
